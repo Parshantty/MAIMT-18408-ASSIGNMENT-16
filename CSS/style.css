@@ -1,0 +1,183 @@
+body{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+     font-weight: 20px;
+}
+
+
+header{
+    margin: 10px;
+    text-align: center;
+    font-size: 25px;
+}
+.row{
+    margin-left: 600px;
+    padding: 10px;
+}
+.col-20{
+    width: 10%;
+    float: left;
+
+}
+.col-40{
+    width: 40%;
+    display: flow-root;
+}
+input[type= text]{
+  width: 80%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+}
+input[type=email]{
+    width: 80%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+}
+select{
+  width: 80%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+}
+
+input[type=date]{
+    width: 80%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+      width: 65%;
+}
+
+
+input[type=password]{
+     width: 80%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+}
+.button1{
+    margin-left: 600px;
+    padding:10px 15px 10px 15px;
+    background-color:blue;
+    color: white;
+    border-radius: 5px;
+}
+.button2{
+    margin-left:20px;
+    padding:10px 15px 10px 15px;
+    background-color:green;
+    color: white;
+    border-radius: 5px;
+}
+.button3{
+    margin-left: 600px;
+    padding:10px 15px 10px 15px;
+    background-color:lawngreen;
+    color: white;
+    border-radius: 5px;
+}
+.button4{
+    margin-left: 2
+    0px;
+    padding:10px 15px 10px 15px;
+    background-color:orange;
+    color: white;
+    border-radius: 5px;
+}
+.error{
+  color: red;
+  margin:10px 0 10px 610px; ;
+}
+
+
+
+
+
+
+
+
+
+
+/*record.php*/
+ section form button {
+            width: 100px;
+        }
+
+        section .mini_container {
+            border: 2px solid;
+            border-radius: 4px;
+            height: 50px;
+            padding: 20px;
+        }
+
+        section .mini_container .col {
+            width: 25%;
+            text-align: left;
+        }
+
+.button5{
+  margin-left: 50px;
+  background-color: greenyellow;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.button6{
+  margin-left: 10px;
+  background-color: blue;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.button7{
+  margin-left: 10px;
+  background-color: red;
+  padding: 10px;
+  border-radius: 5px;
+}
+.button8{
+  margin-left: 1100px;
+  background-color:red ;
+  padding: 10px;
+  border-radius: 5px;
+}
+.mini_container{
+margin: 0 50px 25px 50px;
+}
+.col{
+  float: left;
+  font-weight: bold;
+  padding-bottom: 5px;
+}
+
+
+
+
+
+/*update.php */
+.button9{
+  margin-left: 50px;
+  background-color:greenyellow;
+  padding: 10px;
+  border-radius: 5px;
+}
+.button10{
+  margin-left: 10px;
+  background-color:red ;
+  padding: 10px;
+  border-radius: 5px;
+}
+.button11{
+  margin-left: 10px;
+  background-color:blueviolet ;
+  padding: 10px;
+  border-radius: 5px;
+}
